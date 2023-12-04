@@ -1,0 +1,447 @@
+{
+    "templates": [
+        {
+            "u": "KQH)>dn[uhzHj]CDunI!",
+            "tt": "DisplayName",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 1,
+            "order": 0,
+            "lib": "*7EudYJ[;)4sKU3T2frM",
+            "r": false,
+            "stats": "",
+            "hint": "",
+            "cnt": [
+                {
+                    "i": 2,
+                    "o": "KQH)>dn[uhzHj]CDunI!",
+                    "t": "KQH)>dn[uhzHj]CDunI!"
+                }
+            ],
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"fieldDelimiter\":\"\",\"textDrawable\":false}",
+            "unique": false,
+            "readonly": false
+        },
+        {
+            "u": "]2s!Jy<2co!&t(+xAY[w",
+            "tt": "Id",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 2,
+            "order": 1,
+            "lib": "*7EudYJ[;)4sKU3T2frM",
+            "r": false,
+            "stats": "",
+            "hint": "",
+            "cnt": [
+                {
+                    "i": 2,
+                    "o": "]2s!Jy<2co!&t(+xAY[w",
+                    "t": "]2s!Jy<2co!&t(+xAY[w"
+                }
+            ],
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "unique": false,
+            "readonly": true
+        },
+        {
+            "u": "G6&TJAV)wj]OD8L9G]>U",
+            "tt": "Type",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 4,
+            "order": 2,
+            "lib": "*7EudYJ[;)4sKU3T2frM",
+            "r": false,
+            "stats": "",
+            "hint": "",
+            "cnt": [
+                {
+                    "s": "_index_{\"i\":1,\"t\":\"ObjType\"}",
+                    "i": 0,
+                    "o": "G6&TJAV)wj]OD8L9G]>U",
+                    "t": "G6&TJAV)wj]OD8L9G]>U"
+                }
+            ],
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":1,\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "unique": false,
+            "readonly": false
+        },
+        {
+            "u": "S3JuJ1yY9de&4d-;2l4w",
+            "tt": "HasTypes",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 5,
+            "order": 3,
+            "lib": "*7EudYJ[;)4sKU3T2frM",
+            "r": false,
+            "stats": "",
+            "hint": "",
+            "cnt": [
+                {
+                    "s": "_index_{\"i\":1,\"t\":\"ObjType\"}",
+                    "i": 0,
+                    "o": "S3JuJ1yY9de&4d-;2l4w",
+                    "t": "S3JuJ1yY9de&4d-;2l4w"
+                }
+            ],
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "unique": false,
+            "readonly": false
+        },
+        {
+            "u": "K>eZGn1KYCvOOK7VUJ]M",
+            "tt": "Name",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 0,
+            "order": 4,
+            "lib": "*7EudYJ[;)4sKU3T2frM",
+            "r": false,
+            "stats": "",
+            "hint": "",
+            "cnt": [
+                {
+                    "i": 2,
+                    "o": "K>eZGn1KYCvOOK7VUJ]M",
+                    "t": "K>eZGn1KYCvOOK7VUJ]M"
+                }
+            ],
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "unique": false,
+            "readonly": false
+        },
+        {
+            "u": "Z]hUpLO(N)DR@N0R852U",
+            "tt": "Description",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 3,
+            "order": 5,
+            "lib": "*7EudYJ[;)4sKU3T2frM",
+            "r": false,
+            "stats": "",
+            "hint": "",
+            "cnt": [
+                {
+                    "i": 0,
+                    "o": "Z]hUpLO(N)DR@N0R852U",
+                    "t": "Z]hUpLO(N)DR@N0R852U"
+                }
+            ],
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "unique": false,
+            "readonly": false
+        }
+    ],
+    "version": 26,
+    "entry_pages": "{\"pages\":[{\"d\":false,\"f\":[2,1,4,5],\"hide_aggr\":[],\"inv\":[],\"ml\":[],\"t\":\"Type\"},{\"d\":true,\"f\":[0,3],\"hide_aggr\":[],\"inv\":[],\"ml\":[],\"t\":\"def_page_title\"}],\"steps\":false}",
+    "title": "Obj",
+    "color": -2236963,
+    "icon": "flat:folder_blue.png",
+    "unique_names": false,
+    "related_libraries": [
+        {
+            "title": "ObjType",
+            "id": "UD3ZsL<]nJ##cqW;Prnb",
+            "color": -2236963,
+            "icon": "flat:folder_blue.png",
+            "unique_names": false,
+            "entry_pages": "{\"pages\":[{\"d\":false,\"f\":[2,1,4,5],\"hide_aggr\":[],\"inv\":[],\"ml\":[\"*7EudYJ[;)4sKU3T2frM\",\"UD3ZsL\\u003c]nJ##cqW;Prnb\"],\"t\":\"Type\"},{\"d\":true,\"f\":[0,3,6,7],\"hide_aggr\":[],\"inv\":[],\"ml\":[],\"t\":\"def_page_title\"}],\"steps\":false}",
+            "templates": [
+                {
+                    "u": "]26JqJDQdVYMPHLTi]M6",
+                    "tt": "DisplayName",
+                    "type": "ft_string",
+                    "usg": "USAGE_IN_TITLE",
+                    "num": 1,
+                    "order": 0,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": false,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "i": 2,
+                            "o": "]26JqJDQdVYMPHLTi]M6",
+                            "t": "]26JqJDQdVYMPHLTi]M6"
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"fieldColorTarget\":0,\"fieldDelimiter\":\"\",\"textDrawable\":false}",
+                    "unique": false,
+                    "readonly": false
+                },
+                {
+                    "u": "SF6u5&w2b27EltUYd4ux",
+                    "tt": "Id",
+                    "type": "ft_string",
+                    "usg": "NOT_USAGE",
+                    "num": 2,
+                    "order": 1,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": false,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "i": 2,
+                            "o": "SF6u5&w2b27EltUYd4ux",
+                            "t": "SF6u5&w2b27EltUYd4ux"
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"fieldColorTarget\":0,\"textDrawable\":false}",
+                    "unique": false,
+                    "readonly": true
+                },
+                {
+                    "u": "LkhaXQJf&yJH2:v>OH)B",
+                    "tt": "Type",
+                    "type": "ft_lib_entry",
+                    "usg": "NOT_USAGE",
+                    "num": 4,
+                    "order": 2,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": false,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "s": "_index_{\"i\":1,\"t\":\"ObjType\"}",
+                            "i": 0,
+                            "o": "LkhaXQJf&yJH2:v>OH)B",
+                            "t": "LkhaXQJf&yJH2:v>OH)B"
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"relationType\":1,\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"textDrawable\":false}",
+                    "unique": false,
+                    "readonly": false
+                },
+                {
+                    "u": "(15XSgH]cMZ[L!dLr:X:",
+                    "tt": "HasTypes",
+                    "type": "ft_lib_entry",
+                    "usg": "NOT_USAGE",
+                    "num": 5,
+                    "order": 3,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": false,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "s": "_index_{\"i\":1,\"t\":\"ObjType\"}",
+                            "i": 0,
+                            "o": "(15XSgH]cMZ[L!dLr:X:",
+                            "t": "(15XSgH]cMZ[L!dLr:X:"
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"relationType\":0,\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"textDrawable\":false}",
+                    "unique": false,
+                    "readonly": false
+                },
+                {
+                    "u": "(sICQjM#OZ73aey:r)+[",
+                    "tt": "Name",
+                    "type": "ft_string",
+                    "usg": "NOT_USAGE",
+                    "num": 0,
+                    "order": 4,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": false,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "i": 2,
+                            "o": "(sICQjM#OZ73aey:r)+[",
+                            "t": "(sICQjM#OZ73aey:r)+["
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"fieldColorTarget\":0,\"textDrawable\":false}",
+                    "unique": true,
+                    "readonly": false
+                },
+                {
+                    "u": "()+jmSeY]NzAxc-(!8nx",
+                    "tt": "Description",
+                    "type": "ft_string",
+                    "usg": "NOT_USAGE",
+                    "num": 3,
+                    "order": 5,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": false,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "i": 0,
+                            "o": "()+jmSeY]NzAxc-(!8nx",
+                            "t": "()+jmSeY]NzAxc-(!8nx"
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"fieldColorTarget\":0,\"textDrawable\":false}",
+                    "unique": false,
+                    "readonly": false
+                },
+                {
+                    "u": "N585RAwkgBbS&9-*nPQo",
+                    "tt": "CreateTypes",
+                    "type": "ft_lib_entry",
+                    "usg": "NOT_USAGE",
+                    "num": 6,
+                    "order": 6,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": false,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "s": "_index_{\"i\":1,\"t\":\"ObjType\"}",
+                            "i": 0,
+                            "o": "N585RAwkgBbS&9-*nPQo",
+                            "t": "N585RAwkgBbS&9-*nPQo"
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"relationType\":0,\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"textDrawable\":false}",
+                    "unique": false,
+                    "readonly": false
+                },
+                {
+                    "u": ")tjZl9e1iTUnZI1q9b)A",
+                    "tt": "Code",
+                    "type": "ft_string",
+                    "usg": "NOT_USAGE",
+                    "num": 7,
+                    "order": 7,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": true,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "i": 0,
+                            "o": ")tjZl9e1iTUnZI1q9b)A",
+                            "t": ")tjZl9e1iTUnZI1q9b)A"
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"fieldColorTarget\":0,\"textDrawable\":false}",
+                    "unique": false,
+                    "readonly": false
+                }
+            ]
+        }
+    ]
+}
