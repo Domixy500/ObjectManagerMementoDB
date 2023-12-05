@@ -6,6 +6,24 @@
 const objMan = (function () {
     const types = loadTypes();
 
+    function id() {
+        const now = Date.now();
+
+        function checkNow() {
+            if (Date.now() !== now) {
+                return now;
+            } else {
+                return checkNow();
+            }
+        }
+
+        return checkNow();
+    }
+
+    function init() {
+        message("Init");
+    }
+
     function loadTypes() {
         const objTypes = {};
         const typeEntries = libByName("ObjType").entries();
@@ -21,6 +39,8 @@ const objMan = (function () {
     }
 
     return Object.freeze({
-        types
+        "id": id,
+        "init": init,
+        "types": types
     });
 }());
