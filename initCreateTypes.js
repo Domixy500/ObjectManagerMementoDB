@@ -1,5 +1,13 @@
 /*jslint beta*/
 /*global
+    libByName
+    message
+    objectManager
+    objMan
+*/
+
+const objCode = `/*jslint beta*/
+/*global
     lib
     libByName
     objMan
@@ -25,6 +33,9 @@
         }
 
         function checkMissingEntry(libName) {
+            // const exists = libByName(libName).entries().find(
+            //     (x) => x.field("id") === id()
+            // ) !== undefined;
             if (objMan.getEntry(libName, id()) === undefined) {
                 createMissingEntry(libName);
             }
@@ -113,3 +124,63 @@
         });
     };
 }());
+`;
+const objTypeCode = `/*jslint beta*/
+/*global
+    objMan
+*/
+
+(function () {
+    return function (e) {
+        const obj = objMan.load(e, "obj");
+
+        return Object.freeze({
+            "afterCreate": obj.afterCreate,
+            "afterDelete": obj.afterDelete,
+            "afterSave": obj.afterSave,
+            "id": obj.id,
+            "name": obj.name,
+            "show": obj.show,
+            "type": obj.type
+        });
+    };
+}());
+`;
+
+const objTypes = libByName("ObjType");
+if (objTypes.entries().length === 0) {
+    init();
+} else {
+    message("Init can not be executed!\nThere are already entries in libray 'ObjType'"); //jslint-ignore-line
+}
+
+function createEntry(libName) {
+    return objMan.createEntry(libName);
+}
+
+function createObjAndObjType() {
+    const obj = createEntry("ObjType");
+    const objType = createEntry("ObjType");
+    obj.set("Name", "Obj");
+    obj.set("DisplayName", "Obj");
+    obj.set("Id", objMan.id());
+    obj.set("Code", objCode);
+    obj.link("Type", objType);
+    obj.link("HasTypes", obj);
+    obj.link("HasTypes", objType);
+    obj.link("CreateTypes", obj);
+
+    objType.set("Name", "ObjType");
+    objType.set("DisplayName", "ObjType");
+    objType.set("Id", objMan.id());
+    objType.set("Code", objTypeCode);
+    objType.link("Type", objType);
+    objType.link("HasTypes", obj);
+    objType.link("HasTypes", objType);
+    objType.link("CreateTypes", obj);
+    objType.link("CreateTypes", objType);
+}
+
+function init() {
+    createObjAndObjType();
+}
