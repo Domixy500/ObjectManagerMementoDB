@@ -1,0 +1,451 @@
+{
+    "templates": [
+        {
+            "u": "KQH)>dn[uhzHj]CDunI!",
+            "tt": "DisplayName",
+            "type": "ft_string",
+            "usg": "USAGE_IN_TITLE",
+            "num": 1,
+            "order": 0,
+            "lib": "*7EudYJ[;)4sKU3T2frM",
+            "r": false,
+            "stats": "",
+            "hint": "",
+            "cnt": [
+                {
+                    "i": 2,
+                    "o": "KQH)>dn[uhzHj]CDunI!",
+                    "t": "KQH)>dn[uhzHj]CDunI!"
+                }
+            ],
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"fieldDelimiter\":\"\",\"textDrawable\":false}",
+            "unique": false,
+            "readonly": false
+        },
+        {
+            "u": "]2s!Jy<2co!&t(+xAY[w",
+            "tt": "Id",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 2,
+            "order": 1,
+            "lib": "*7EudYJ[;)4sKU3T2frM",
+            "r": false,
+            "stats": "",
+            "hint": "",
+            "cnt": [
+                {
+                    "i": 2,
+                    "o": "]2s!Jy<2co!&t(+xAY[w",
+                    "t": "]2s!Jy<2co!&t(+xAY[w"
+                }
+            ],
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "unique": false,
+            "readonly": true
+        },
+        {
+            "u": "G6&TJAV)wj]OD8L9G]>U",
+            "tt": "Type",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 4,
+            "order": 2,
+            "lib": "*7EudYJ[;)4sKU3T2frM",
+            "r": false,
+            "stats": "",
+            "hint": "",
+            "cnt": [
+                {
+                    "s": "_index_{\"i\":1,\"t\":\"ObjType\"}",
+                    "i": 0,
+                    "o": "G6&TJAV)wj]OD8L9G]>U",
+                    "t": "G6&TJAV)wj]OD8L9G]>U"
+                }
+            ],
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":1,\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "unique": false,
+            "readonly": false
+        },
+        {
+            "u": "S3JuJ1yY9de&4d-;2l4w",
+            "tt": "HasTypes",
+            "type": "ft_lib_entry",
+            "usg": "NOT_USAGE",
+            "num": 5,
+            "order": 3,
+            "lib": "*7EudYJ[;)4sKU3T2frM",
+            "r": false,
+            "stats": "",
+            "hint": "",
+            "cnt": [
+                {
+                    "s": "_index_{\"i\":1,\"t\":\"ObjType\"}",
+                    "i": 0,
+                    "o": "S3JuJ1yY9de&4d-;2l4w",
+                    "t": "S3JuJ1yY9de&4d-;2l4w"
+                }
+            ],
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"relationType\":0,\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "unique": false,
+            "readonly": false
+        },
+        {
+            "u": "K>eZGn1KYCvOOK7VUJ]M",
+            "tt": "Name",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 0,
+            "order": 4,
+            "lib": "*7EudYJ[;)4sKU3T2frM",
+            "r": false,
+            "stats": "",
+            "hint": "",
+            "cnt": [
+                {
+                    "i": 2,
+                    "o": "K>eZGn1KYCvOOK7VUJ]M",
+                    "t": "K>eZGn1KYCvOOK7VUJ]M"
+                }
+            ],
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "unique": false,
+            "readonly": false
+        },
+        {
+            "u": "Z]hUpLO(N)DR@N0R852U",
+            "tt": "Description",
+            "type": "ft_string",
+            "usg": "NOT_USAGE",
+            "num": 3,
+            "order": 5,
+            "lib": "*7EudYJ[;)4sKU3T2frM",
+            "r": false,
+            "stats": "",
+            "hint": "",
+            "cnt": [
+                {
+                    "i": 0,
+                    "o": "Z]hUpLO(N)DR@N0R852U",
+                    "t": "Z]hUpLO(N)DR@N0R852U"
+                }
+            ],
+            "depend": "",
+            "disp_title": true,
+            "entry_color": false,
+            "show_in_table": true,
+            "column_width": 100,
+            "week_event": 0,
+            "autofill": "",
+            "card_align": 0,
+            "json_options": "{\"fieldColorTarget\":0,\"textDrawable\":false}",
+            "unique": false,
+            "readonly": false
+        }
+    ],
+    "version": 26,
+    "entry_pages": "{\"pages\":[{\"d\":false,\"f\":[2,1,4,5],\"hide_aggr\":[],\"inv\":[],\"ml\":[],\"t\":\"Type\"},{\"d\":true,\"f\":[0,3],\"hide_aggr\":[],\"inv\":[],\"ml\":[],\"t\":\"def_page_title\"}],\"steps\":false}",
+    "title": "Obj",
+    "color": -2236963,
+    "icon": "flat:folder_blue.png",
+    "unique_names": false,
+    "triggers": "[{\"enabled\":true,\"event\":\"CREATE_ENTRY\",\"jsLibs\":[],\"moment\":\"AFTER_SAVE\",\"name\":\"afterCreate\",\"script\":\"/*jslint beta*/\\n/*global\\n    objMan\\n*/\\n\\nconst obj \\u003d objMan.load(entry());\\nobj.afterCreate();\\n\"},{\"enabled\":true,\"event\":\"MODIFY_ENTRY\",\"jsLibs\":[],\"moment\":\"AFTER_SAVE\",\"name\":\"afterSave\",\"script\":\"/*jslint beta*/\\n/*global\\n    objMan\\n*/\\n\\nconst obj \\u003d objMan.load(entry());\\nobj.afterSave();\\n\"},{\"enabled\":true,\"event\":\"COMMON\",\"jsLibs\":[],\"moment\":\"LIBRARY_CONTEXT\",\"name\":\"objectManager\",\"script\":\"/*jslint beta, eval*/\\n/*global\\n    libByName\\n*/\\n\\nfunction objectManager() {\\n    const types \\u003d loadTypes();\\n\\n    function createEntry(libName) {\\n        const entryLib \\u003d libByName(libName);\\n        return entryLib.create({});\\n    }\\n\\n    function firstLetterLowerCase(stringVariable) {\\n        const firstLetter \\u003d stringVariable.charAt(0).toLowerCase();\\n        return firstLetter + stringVariable.slice(1);\\n    }\\n\\n    function getEntry(libName, id) {\\n        return libByName(libName).entries().find(\\n            (x) \\u003d\\u003e x.field(\\\"id\\\") \\u003d\\u003d\\u003d id\\n        );\\n    }\\n\\n    function id() {\\n        const now \\u003d Date.now();\\n\\n        function checkNow() {\\n            if (Date.now() !\\u003d\\u003d now) {\\n                return now;\\n            } else {\\n                return checkNow();\\n            }\\n        }\\n\\n        return checkNow();\\n    }\\n\\n    function load(currentEntry, type) {\\n        const typeName \\u003d type || currentEntry.field(\\\"Type\\\")[0].field(\\\"Name\\\");\\n        return types[firstLetterLowerCase(typeName)](currentEntry);\\n    }\\n\\n    function loadTypes() {\\n        const objTypes \\u003d {};\\n        const typeEntries \\u003d libByName(\\\"ObjType\\\").entries();\\n        typeEntries.forEach(loadObjectType);\\n\\n        function loadObjectType(typeEntry) {\\n            const code \\u003d typeEntry.field(\\\"Code\\\");\\n            const name \\u003d firstLetterLowerCase(typeEntry.field(\\\"Name\\\"));\\n            objTypes[name] \\u003d eval(code);\\n        }\\n\\n        return objTypes;\\n    }\\n\\n    return Object.freeze({\\n        \\\"createEntry\\\": createEntry,\\n        \\\"getEntry\\\": getEntry,\\n        \\\"id\\\": id,\\n        \\\"load\\\": load\\n    });\\n}\\n\"},{\"enabled\":true,\"event\":\"COMMON\",\"jsLibs\":[],\"moment\":\"LIBRARY_CONTEXT\",\"name\":\"objMan\",\"script\":\"/*jslint beta*/\\n/*global\\n    objectManager\\n*/\\n\\nconst objMan \\u003d objectManager();\\n\"}]",
+    "related_libraries": [
+        {
+            "title": "ObjType",
+            "id": "UD3ZsL<]nJ##cqW;Prnb",
+            "color": -2236963,
+            "icon": "flat:folder_blue.png",
+            "unique_names": false,
+            "triggers": "[{\"name\":\"afterCreate\",\"event\":\"CREATE_ENTRY\",\"moment\":\"AFTER_SAVE\",\"script\":\"/*jslint beta*/\\n/*global\\n    objMan\\n*/\\n\\nconst obj \\u003d objMan.load(entry());\\nobj.afterCreate();\\n\",\"enabled\":true,\"jsLibs\":[]},{\"name\":\"afterSave\",\"event\":\"MODIFY_ENTRY\",\"moment\":\"AFTER_SAVE\",\"script\":\"/*jslint beta*/\\n/*global\\n    objMan\\n*/\\n\\nconst obj \\u003d objMan.load(entry());\\nobj.afterSave();\\n\",\"enabled\":true,\"jsLibs\":[]},{\"name\":\"initCreateTypes\",\"event\":\"ACTION\",\"moment\":\"LIBRARY_CONTEXT\",\"script\":\"/*jslint beta*/\\n/*global\\n    libByName\\n    message\\n    objectManager\\n    objMan\\n*/\\n\\nconst objTypes \\u003d libByName(\\\"ObjType\\\");\\nif (objTypes.entries().length \\u003d\\u003d\\u003d 0) {\\n    init();\\n} else {\\n    message(\\\"Init can not be executed!\\\\nThere are already entries in libray \\u0027ObjType\\u0027\\\"); //jslint-ignore-line\\n}\\n\\nfunction createEntry(libName) {\\n    return objMan.createEntry(libName);\\n}\\n\\nfunction createObjAndObjType() {\\n    const obj \\u003d createEntry(\\\"ObjType\\\");\\n    const objType \\u003d createEntry(\\\"ObjType\\\");\\n    obj.set(\\\"Name\\\", \\\"Obj\\\");\\n    obj.set(\\\"DisplayName\\\", \\\"Obj\\\");\\n    obj.set(\\\"Id\\\", objMan.id());\\n    obj.set(\\\"Code\\\", decodeURIComponent(objCode()));\\n    obj.link(\\\"Type\\\", objType);\\n    obj.link(\\\"HasTypes\\\", obj);\\n    obj.link(\\\"HasTypes\\\", objType);\\n    obj.link(\\\"CreateTypes\\\", obj);\\n\\n    objType.set(\\\"Name\\\", \\\"ObjType\\\");\\n    objType.set(\\\"DisplayName\\\", \\\"ObjType\\\");\\n    objType.set(\\\"Id\\\", objMan.id());\\n    objType.set(\\\"Code\\\", decodeURIComponent(objTypeCode()));\\n    objType.link(\\\"Type\\\", objType);\\n    objType.link(\\\"HasTypes\\\", obj);\\n    objType.link(\\\"HasTypes\\\", objType);\\n    objType.link(\\\"CreateTypes\\\", obj);\\n    objType.link(\\\"CreateTypes\\\", objType);\\n}\\n\\nfunction init() {\\n    createObjAndObjType();\\n}\\n\\nfunction objCode() {\\n    return \\\"%2F*jslint%20beta*%2F%0D%0A%2F*global%0D%0A%20%20%20%20lib%0D%0A%20%20%20%20libByName%0D%0A%20%20%20%20objMan%0D%0A*%2F%0D%0A%0D%0A(function%20()%20%7B%0D%0A%20%20%20%20return%20function%20(e)%20%7B%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20afterCreate()%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20afterSave()%3B%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20afterDelete()%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20name(name())%3B%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20afterSave()%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20syncEntries()%3B%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20checkMissingEntries()%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20hasTypesNames().forEach(checkMissingEntry)%3B%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20checkMissingEntry(libName)%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20if%20(objMan.getEntry(libName,%20id())%20%3D%3D%3D%20undefined)%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20createMissingEntry(libName)%3B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20createMissingEntry(libName)%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20const%20newEntry%20%3D%20objMan.createEntry(libName)%3B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20newEntry.set(%22Id%22,%20id())%3B%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20hasTypes()%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20return%20loadLinked(%22hasTypes%22,%20%22objType%22)%3B%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20hasTypesNames()%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20return%20hasTypes().map((x)%20%3D%3E%20x.name())%3B%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20id()%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20return%20e.field(%22Id%22)%3B%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20loadLinked(fieldName,%20typeName)%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20return%20e.field(fieldName).map((x)%20%3D%3E%20objMan.load(x,%20typeName))%3B%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20name(newVal)%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20if%20(newVal%20!%3D%3D%20undefined)%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20e.set(%22Name%22,%20newVal)%3B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20return%20e.field(%22Name%22)%3B%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20show()%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20if%20(e.show%20!%3D%3D%20undefined)%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20e.show()%3B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20syncEntries()%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20checkMissingEntries()%3B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20hasTypes().forEach(syncEntry)%3B%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20syncEntry(syncType)%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20const%20entryFields%20%3D%20typeFields()%3B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20const%20entryToSync%20%3D%20objMan.getEntry(syncType.name(),%20id())%3B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20const%20fieldsToSync%20%3D%20libByName(syncType.name()).fields()%3B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20fieldsToSync.forEach(syncField)%3B%0D%0A%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20function%20checkValue(fieldName)%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%20(entryToSync.field(fieldName)%20!%3D%3D%20e.field(fieldName))%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20entryToSync.set(fieldName,%20e.field(fieldName))%3B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20function%20syncField(fieldName)%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%20(entryFields.includes(fieldName))%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20checkValue(fieldName)%3B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20type()%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20return%20loadLinked(%22Type%22,%20%22objType%22)%5B0%5D%3B%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20function%20typeFields(libName)%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20const%20currentLib%20%3D%20(%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20libName%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3F%20libByName(libName)%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3A%20lib()%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20)%3B%0D%0A%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20return%20currentLib.fields()%3B%0D%0A%20%20%20%20%20%20%20%20%7D%0D%0A%0D%0A%20%20%20%20%20%20%20%20return%20Object.freeze(%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%22afterCreate%22%3A%20afterCreate,%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%22afterDelete%22%3A%20afterDelete,%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%22afterSave%22%3A%20afterSave,%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%22id%22%3A%20id,%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%22name%22%3A%20name,%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%22show%22%3A%20show,%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20type%0D%0A%20%20%20%20%20%20%20%20%7D)%3B%0D%0A%20%20%20%20%7D%3B%0D%0A%7D())%3B%0D%0A\\\"; //jslint-ignore-line\\n}\\n\\nfunction objTypeCode() {\\n    return \\\"%2F*jslint%20beta*%2F%0D%0A%2F*global%0D%0A%20%20%20%20objMan%0D%0A*%2F%0D%0A%0D%0A(function%20()%20%7B%0D%0A%20%20%20%20return%20function%20(e)%20%7B%0D%0A%20%20%20%20%20%20%20%20const%20obj%20%3D%20objMan.load(e,%20%22obj%22)%3B%0D%0A%0D%0A%20%20%20%20%20%20%20%20return%20Object.freeze(%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%22afterCreate%22%3A%20obj.afterCreate,%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%22afterDelete%22%3A%20obj.afterDelete,%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%22afterSave%22%3A%20obj.afterSave,%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%22id%22%3A%20obj.id,%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%22name%22%3A%20obj.name,%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%22show%22%3A%20obj.show,%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%22type%22%3A%20obj.type%0D%0A%20%20%20%20%20%20%20%20%7D)%3B%0D%0A%20%20%20%20%7D%3B%0D%0A%7D())%3B%0D%0A\\\"; //jslint-ignore-line\\n}\\n\",\"enabled\":true,\"jsLibs\":[],\"attrJson\":\"{\\\"arguementsTemplates\\\":[]}\"},{\"name\":\"initSyncTypes\",\"event\":\"ACTION\",\"moment\":\"LIBRARY_CONTEXT\",\"script\":\"/*jslint beta*/\\n/*global\\n    libByName\\n    message\\n    objectManager\\n    objMan\\n*/\\n\\nconst objTypes \\u003d libByName(\\\"ObjType\\\");\\nif (objTypes.entries().length \\u003d\\u003d\\u003d 2) {\\n    syncTypes();\\n} else {\\n    message(\\\"Init can not be executed!\\\\nThere are not exactly 2 entries in libray \\u0027ObjType\\u0027\\\"); //jslint-ignore-line\\n}\\n\\nfunction syncTypes() {\\n    objTypes.entries().forEach(objTypeAfterSave);\\n\\n    function objTypeAfterSave(e) {\\n        objMan.load(e, \\\"objType\\\").afterSave();\\n    }\\n}\",\"enabled\":true,\"jsLibs\":[],\"attrJson\":\"{\\\"arguementsTemplates\\\":[]}\"},{\"name\":\"objectManager\",\"event\":\"COMMON\",\"moment\":\"LIBRARY_CONTEXT\",\"script\":\"/*jslint beta, eval*/\\n/*global\\n    libByName\\n*/\\n\\nfunction objectManager() {\\n    const types \\u003d loadTypes();\\n\\n    function createEntry(libName) {\\n        const entryLib \\u003d libByName(libName);\\n        return entryLib.create({});\\n    }\\n\\n    function firstLetterLowerCase(stringVariable) {\\n        const firstLetter \\u003d stringVariable.charAt(0).toLowerCase();\\n        return firstLetter + stringVariable.slice(1);\\n    }\\n\\n    function getEntry(libName, id) {\\n        return libByName(libName).entries().find(\\n            (x) \\u003d\\u003e x.field(\\\"id\\\") \\u003d\\u003d\\u003d id\\n        );\\n    }\\n\\n    function id() {\\n        const now \\u003d Date.now();\\n\\n        function checkNow() {\\n            if (Date.now() !\\u003d\\u003d now) {\\n                return now;\\n            } else {\\n                return checkNow();\\n            }\\n        }\\n\\n        return checkNow();\\n    }\\n\\n    function load(currentEntry, type) {\\n        const typeName \\u003d type || currentEntry.field(\\\"Type\\\")[0].field(\\\"Name\\\");\\n        return types[firstLetterLowerCase(typeName)](currentEntry);\\n    }\\n\\n    function loadTypes() {\\n        const objTypes \\u003d {};\\n        const typeEntries \\u003d libByName(\\\"ObjType\\\").entries();\\n        typeEntries.forEach(loadObjectType);\\n\\n        function loadObjectType(typeEntry) {\\n            const code \\u003d typeEntry.field(\\\"Code\\\");\\n            const name \\u003d firstLetterLowerCase(typeEntry.field(\\\"Name\\\"));\\n            objTypes[name] \\u003d eval(code);\\n        }\\n\\n        return objTypes;\\n    }\\n\\n    return Object.freeze({\\n        \\\"createEntry\\\": createEntry,\\n        \\\"getEntry\\\": getEntry,\\n        \\\"id\\\": id,\\n        \\\"load\\\": load\\n    });\\n}\\n\",\"enabled\":true,\"jsLibs\":[]},{\"name\":\"objMan\",\"event\":\"COMMON\",\"moment\":\"LIBRARY_CONTEXT\",\"script\":\"/*jslint beta*/\\n/*global*/\\n\\nconst objMan \\u003d objectManager();\\n\",\"enabled\":true,\"jsLibs\":[]}]",
+            "entry_pages": "{\"pages\":[{\"d\":false,\"f\":[2,1,4,5],\"hide_aggr\":[],\"inv\":[\"*7EudYJ[;)4sKU3T2frM\"],\"ml\":[\"*7EudYJ[;)4sKU3T2frM\",\"UD3ZsL\\u003c]nJ##cqW;Prnb\"],\"t\":\"Type\"},{\"d\":true,\"f\":[0,3,6,7],\"hide_aggr\":[],\"inv\":[],\"ml\":[],\"t\":\"def_page_title\"}],\"steps\":false}",
+            "templates": [
+                {
+                    "u": "]26JqJDQdVYMPHLTi]M6",
+                    "tt": "DisplayName",
+                    "type": "ft_string",
+                    "usg": "USAGE_IN_TITLE",
+                    "num": 1,
+                    "order": 0,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": false,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "i": 2,
+                            "o": "]26JqJDQdVYMPHLTi]M6",
+                            "t": "]26JqJDQdVYMPHLTi]M6"
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"fieldColorTarget\":0,\"fieldDelimiter\":\"\",\"textDrawable\":false}",
+                    "unique": false,
+                    "readonly": false
+                },
+                {
+                    "u": "SF6u5&w2b27EltUYd4ux",
+                    "tt": "Id",
+                    "type": "ft_string",
+                    "usg": "NOT_USAGE",
+                    "num": 2,
+                    "order": 1,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": false,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "i": 2,
+                            "o": "SF6u5&w2b27EltUYd4ux",
+                            "t": "SF6u5&w2b27EltUYd4ux"
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"fieldColorTarget\":0,\"textDrawable\":false}",
+                    "unique": false,
+                    "readonly": true
+                },
+                {
+                    "u": "LkhaXQJf&yJH2:v>OH)B",
+                    "tt": "Type",
+                    "type": "ft_lib_entry",
+                    "usg": "NOT_USAGE",
+                    "num": 4,
+                    "order": 2,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": false,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "s": "_index_{\"i\":1,\"t\":\"ObjType\"}",
+                            "i": 0,
+                            "o": "LkhaXQJf&yJH2:v>OH)B",
+                            "t": "LkhaXQJf&yJH2:v>OH)B"
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"relationType\":1,\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"textDrawable\":false}",
+                    "unique": false,
+                    "readonly": false
+                },
+                {
+                    "u": "(15XSgH]cMZ[L!dLr:X:",
+                    "tt": "HasTypes",
+                    "type": "ft_lib_entry",
+                    "usg": "NOT_USAGE",
+                    "num": 5,
+                    "order": 3,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": false,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "s": "_index_{\"i\":1,\"t\":\"ObjType\"}",
+                            "i": 0,
+                            "o": "(15XSgH]cMZ[L!dLr:X:",
+                            "t": "(15XSgH]cMZ[L!dLr:X:"
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"relationType\":0,\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"textDrawable\":false}",
+                    "unique": false,
+                    "readonly": false
+                },
+                {
+                    "u": "(sICQjM#OZ73aey:r)+[",
+                    "tt": "Name",
+                    "type": "ft_string",
+                    "usg": "NOT_USAGE",
+                    "num": 0,
+                    "order": 4,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": false,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "i": 2,
+                            "o": "(sICQjM#OZ73aey:r)+[",
+                            "t": "(sICQjM#OZ73aey:r)+["
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"fieldColorTarget\":0,\"textDrawable\":false}",
+                    "unique": true,
+                    "readonly": false
+                },
+                {
+                    "u": "()+jmSeY]NzAxc-(!8nx",
+                    "tt": "Description",
+                    "type": "ft_string",
+                    "usg": "NOT_USAGE",
+                    "num": 3,
+                    "order": 5,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": false,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "i": 0,
+                            "o": "()+jmSeY]NzAxc-(!8nx",
+                            "t": "()+jmSeY]NzAxc-(!8nx"
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"fieldColorTarget\":0,\"textDrawable\":false}",
+                    "unique": false,
+                    "readonly": false
+                },
+                {
+                    "u": "N585RAwkgBbS&9-*nPQo",
+                    "tt": "CreateTypes",
+                    "type": "ft_lib_entry",
+                    "usg": "NOT_USAGE",
+                    "num": 6,
+                    "order": 6,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": false,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "s": "_index_{\"i\":1,\"t\":\"ObjType\"}",
+                            "i": 0,
+                            "o": "N585RAwkgBbS&9-*nPQo",
+                            "t": "N585RAwkgBbS&9-*nPQo"
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"relationType\":0,\"attrJsonTemplates\":[],\"maxObjects\":2147483647,\"fieldColorTarget\":0,\"textDrawable\":false}",
+                    "unique": false,
+                    "readonly": false
+                },
+                {
+                    "u": ")tjZl9e1iTUnZI1q9b)A",
+                    "tt": "Code",
+                    "type": "ft_string",
+                    "usg": "NOT_USAGE",
+                    "num": 7,
+                    "order": 7,
+                    "lib": "UD3ZsL<]nJ##cqW;Prnb",
+                    "r": true,
+                    "stats": "",
+                    "hint": "",
+                    "cnt": [
+                        {
+                            "s": "/*jslint beta*/\r\n/*global\r\n    objMan\r\n*/\r\n\r\n(function () {\r\n    return function (e) {\r\n        const obj = objMan.load(e, \"obj\");\r\n\r\n        return Object.freeze({\r\n            \"afterCreate\": obj.afterCreate,\r\n            \"afterDelete\": obj.afterDelete,\r\n            \"afterSave\": obj.afterSave,\r\n            \"id\": obj.id,\r\n            \"name\": obj.name,\r\n            \"show\": obj.show,\r\n            \"type\": obj.type\r\n        });\r\n    };\r\n}());\r\n",
+                            "i": 0,
+                            "o": ")tjZl9e1iTUnZI1q9b)A",
+                            "t": ")tjZl9e1iTUnZI1q9b)A"
+                        }
+                    ],
+                    "depend": "",
+                    "disp_title": true,
+                    "entry_color": false,
+                    "show_in_table": true,
+                    "column_width": 100,
+                    "week_event": 0,
+                    "autofill": "",
+                    "card_align": 0,
+                    "json_options": "{\"fieldColorTarget\":0,\"textDrawable\":false}",
+                    "unique": false,
+                    "readonly": false
+                }
+            ],
+            "scripts_permissions": "{\"fileRead\":false,\"fileWrite\":false,\"libraries\":true,\"librariesIds\":[\"V)zE6TunxjX9LreK@xkL\",\"*7EudYJ[;)4sKU3T2frM\",\"!\\u003e7Z]@F*1)icJ\\u0026\\u003cq]JGT\",\"RsehR\\u0026OgcO]f*)d4bO2W\",\"U15S%4uaQb9XN+1CVuE7\",\"#LqPpV#8e%%]o*2CZsg2\",\"UD3ZsL\\u003c]nJ##cqW;Prnb\"],\"librariesTitles\":{},\"network\":false}"
+        }
+    ]
+}
