@@ -17,6 +17,7 @@
         }
 
         function afterSave() {
+            displayName();
             syncEntries();
         }
 
@@ -30,9 +31,30 @@
             }
         }
 
+        function copy() {
+            const libName = type().name();
+            const newEntry = objMan.createEntry(libName);
+            const sourceEntry = objMan.getEntry(libName, id());
+            typeFields().forEach(copyFieldValue);
+            newEntry.set("Id", objMan.id());
+            objMan.load(newEntry).afterSave();
+
+            function copyFieldValue(fieldName) {
+                newEntry.set(fieldName, sourceEntry.field(fieldName));
+            }
+
+            return newEntry;
+        }
+
         function createMissingEntry(libName) {
             const newEntry = objMan.createEntry(libName);
             newEntry.set("Id", id());
+        }
+
+        function displayName() {
+            const display = e.field("Name");
+            e.set("DisplayName", display);
+            return display;
         }
 
         function hasTypes() {
@@ -106,6 +128,7 @@
             "afterCreate": afterCreate,
             "afterDelete": afterDelete,
             "afterSave": afterSave,
+            "copy": copy,
             "id": id,
             "name": name,
             "show": show,
